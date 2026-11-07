@@ -1,6 +1,6 @@
 # Smart Hospital Patient Triage System
 
-> A Java academic project exploring patient record management and priority-based triage queues with custom data structures.
+> A Java project exploring patient record management and priority-based triage queues with custom data structures.
 
 > **Project status:** Prototype for coursework and data-structure study. It is not a production hospital system and must not be used for clinical decisions.
 

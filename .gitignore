@@ -1,0 +1,20 @@
+# NetBeans local settings
+/nbproject/private/
+
+# Ant / NetBeans build output
+/build/
+/dist/
+/src/**/build/
+
+# Java artifacts
+*.class
+*.jar
+*.war
+
+# IDE and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
